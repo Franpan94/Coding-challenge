@@ -1,0 +1,97 @@
+body{background-image: url("foto.jpg");
+     background-size: cover;
+     background-repeat: no-repeat;
+     }
+
+/* sfondo trasparente */
+#trasparente{background-color: rgba(0,0,0,0.6);
+             width: 70%;
+             margin-left: 15%;
+             margin-top: 30px;
+             margin-bottom: 80px;
+             padding-bottom: 80px;
+             border-radius: 10px;
+            }
+
+/* logo e titolo */
+#contenitore{width: 30%;
+             margin: auto;
+            }
+
+#logo{width: 70%;
+      margin-left: 70px;
+      margin-top: 50px;
+      }
+
+#titolo{color: limegreen;
+        margin-top: 5px;
+        font-size: 24px;
+       }
+
+#barranav{background-color: limegreen;
+          width: 1000px;
+          height: 50px;
+          margin: auto;
+         }
+/* prenota, termina prenotazione, accendi luci */
+#minicontenitore{width: 35%;
+                 padding: 15px;
+                 margin: auto;
+                 }
+
+.quadratino{width: 8px;
+            height: 8px;
+            background-color: white;
+            margin-left: 260px;
+            margin-top: 20px;
+           }
+
+/* distanza tra monopattino e quadratino */
+.bordo{margin-left: 275px;
+       margin-top: -15px;
+       color: white;
+       font-size: 20px;
+      }
+
+.freccia{margin-left: 255px;
+         margin-top: -10px;
+         color: white;
+         font-size: 15px;
+        }
+
+.via{margin-left: 270px;
+      margin-top: -40px;
+      color: white;
+      font-size: 15px;
+     }
+
+/* barra di caricamento */
+.stato{margin-left: 255px;
+       margin-top: -10px;
+       color: white;
+       font-size: 15px;
+       }
+
+#rettangolo{width: 340px;
+            height: 30px;
+            background: orange;
+            margin-left: 255px;
+            border-radius: 5px;
+            margin-top: -15px;
+           }
+
+#rettangolone{width: 520px;
+              height: 30px;
+              background: limegreen;
+              margin-left: 255px;
+              border-radius: 5px;
+              margin-top: -15px;
+             }
+
+#rettangolino{width: 120px;
+              height: 30px;
+              background: crimson;
+              margin-left: 255px;
+              border-radius: 5px;
+              margin-top: -15px;
+              }
